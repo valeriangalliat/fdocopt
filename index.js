@@ -27,7 +27,7 @@ function extractBuffer(buffer) {
  * Extract the first comment from file.
  */
 function extract(file) {
-  return extractBuffer(fs.readFileSync(file, 'utf-8'));
+  return extractBuffer(fs.readFileSync(file, 'utf8'));
 }
 
 fdocopt.extractBuffer = extractBuffer;
