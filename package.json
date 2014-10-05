@@ -2,17 +2,21 @@
   "name": "fdocopt",
   "version": "0.1.1",
 
+  "homepage": "https://github.com/valeriangalliat/fdocopt",
+  "bugs": "https://github.com/valeriangalliat/fdocopt/issues",
+
   "author": {
     "name": "Valérian Galliat",
     "url": "http://val.codejam.info/"
   },
 
-  "homepage": "https://github.com/valeriangalliat/fdocopt",
-  "bugs": "https://github.com/valeriangalliat/fdocopt/issues",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/valeriangalliat/fdocopt.git"
+  },
+
+  "scripts": {
+    "test": "eslint index.js"
   },
 
   "dependencies": {
@@ -21,9 +25,5 @@
 
   "devDependencies": {
     "eslint": "0.*"
-  },
-
-  "scripts": {
-    "test": "eslint index.js"
   }
 }
