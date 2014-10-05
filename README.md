@@ -1,7 +1,9 @@
 fdocopt
 =======
 
-> File decorator for docopt option parser.
+> File decorator for [docopt] option parser.
+
+[docopt]: https://github.com/docopt/docopt.coffee
 
 Overview
 --------
