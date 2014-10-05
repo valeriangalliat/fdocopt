@@ -5,6 +5,11 @@
   "homepage": "https://github.com/valeriangalliat/fdocopt",
   "bugs": "https://github.com/valeriangalliat/fdocopt/issues",
 
+  "license": {
+    "type": "Unlicense",
+    "url": "http://unlicense.org/"
+  },
+
   "author": {
     "name": "Valérian Galliat",
     "url": "http://val.codejam.info/"
