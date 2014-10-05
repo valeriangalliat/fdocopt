@@ -1,0 +1,29 @@
+{
+  "name": "fdocopt",
+  "version": "0.1.1",
+
+  "author": {
+    "name": "Valérian Galliat",
+    "url": "http://val.codejam.info/"
+  },
+
+  "homepage": "https://github.com/valeriangalliat/fdocopt",
+  "bugs": "https://github.com/valeriangalliat/fdocopt/issues",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valeriangalliat/fdocopt.git"
+  },
+
+  "dependencies": {
+    "docopt": "0.*"
+  },
+
+  "devDependencies": {
+    "eslint": "0.*"
+  },
+
+  "scripts": {
+    "test": "eslint index.js"
+  }
+}
