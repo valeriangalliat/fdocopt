@@ -15,10 +15,6 @@ string to contain the usage string.
 This package provides a decorator for docopt to solve this problem.
 
 ```js
-#!/usr/bin/env node
-
-'use strict';
-
 /*
 Usage: hello [options] <world>
 
