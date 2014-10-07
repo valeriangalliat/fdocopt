@@ -1,5 +1,4 @@
-fdocopt
-=======
+# fdocopt [![npm version](http://img.shields.io/npm/v/fdocopt.svg?style=flat-square)](https://www.npmjs.org/package/fdocopt)
 
 > File decorator for [docopt] option parser.
 
