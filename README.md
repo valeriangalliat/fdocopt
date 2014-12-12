@@ -4,8 +4,8 @@
 
 [docopt]: https://github.com/docopt/docopt.coffee
 
-Overview
---------
+Description
+-----------
 
 It's not easy to work with docopt in pure JavaScript since, unlike
 Python and CoffeeScript, there's no simple way to define a multiline
