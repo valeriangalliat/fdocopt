@@ -5,10 +5,7 @@
   "homepage": "https://github.com/valeriangalliat/fdocopt",
   "bugs": "https://github.com/valeriangalliat/fdocopt/issues",
 
-  "license": {
-    "type": "Unlicense",
-    "url": "http://unlicense.org/"
-  },
+  "license": "Unlicense",
 
   "author": {
     "name": "Valérian Galliat",
